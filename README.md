@@ -32,7 +32,6 @@ It is made using **basic Java concepts** to practice **File I/O** and **Exceptio
 ---
 
 ## How to Run
-1. Clone repo:  
    ```bash
 javac NotesAppBasic.java
 java NotesAppBasic
